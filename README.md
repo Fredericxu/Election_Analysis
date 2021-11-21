@@ -24,3 +24,6 @@ Diana DeGette won the election, with vote count 272,892 and total votes percenta
 ### Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 1. this script could be modified with region-candidate relations to show the vote percentage of a candidate in a specific county.
 2. this script could be modified with a new factor of "year" to analyze elections happend in past years. It could tell the trend of the election regarding on election history of different Party
+
+###ps
+The code (line 9) is modified for reading the file under folder "Resouces" and "analysis".
